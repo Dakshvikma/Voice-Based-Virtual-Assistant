@@ -1,0 +1,14 @@
+streamlit>=1.28.0
+SpeechRecognition>=3.10.0
+pyttsx3
+requests>=2.31.0
+google-generativeai>=0.3.0
+python-dotenv>=1.0.0
+pygame>=2.5.0
+gtts
+pyautogui
+psutil
+gTTS>=2.4.0
+keyboard>=0.13.5
+pycaw>=20230407; sys_platform == 'win32'
+comtypes>=1.2.0; sys_platform == 'win32'
